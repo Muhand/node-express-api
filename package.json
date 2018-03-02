@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/Muhand/node-express-api#readme",
   "bin": {
-    "create-api": "./cli.js"
-
+    "create-api": "./lib/cli.js"
   }
 }
