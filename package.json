@@ -25,5 +25,8 @@
   "homepage": "https://github.com/Muhand/node-express-api#readme",
   "bin": {
     "create-api": "./lib/cli.js"
+  },
+  "dependencies": {
+    "async": "^2.6.0"
   }
 }
